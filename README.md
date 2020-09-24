@@ -13,9 +13,10 @@ This repository contains the following files:
 - temperature.py
 
 ### AdditionOfTwoValues
+AdditionOfTwoValues.java is a source file and AdditionOfTwoValues.class is an executable file.
 
 ### SwapTwoStrings
-Swaps two strings.
+Swaps two strings. SwapTwoStrings.java is a source file and SwapTwoStrings.class is an executable file.
 
 ### temperature.py
 Draws graphs of Celcius temperatures and corresponding Fahrenheit values.
