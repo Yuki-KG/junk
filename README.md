@@ -16,7 +16,7 @@ This repository contains the following files:
 Returns the addition of two numbers you give. AdditionOfTwoValues.java is a source file and AdditionOfTwoValues.class is an executable file.
 
 ### SwapTwoStrings
-Swaps two strings you give. SwapTwoStrings.java is a source file and SwapTwoStrings.class is an executable file.
+Swaps two strings you give. SwapTwoStrings.java is a source file and SwapTwoStrings.class is an executable file. SwapTwoStrings.py is an equivalent Python file.
 
 ### temperature.py
 A python file which draws graphs of Celcius temperatures and corresponding Fahrenheit values.
