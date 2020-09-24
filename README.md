@@ -4,13 +4,13 @@ Junk files, files of little meanings, files made only for coding practices, etc.
 ## Files
 This repository contains the following files:
 
--AdditionOfTwoValues.class
--AdditionOfTwoValues.java
--README.md
--SwapTwoStrings.class
--SwapTwoStrings.java
--SwapTwoStrings.py
--temperature.py
+- AdditionOfTwoValues.class
+- AdditionOfTwoValues.java
+- README.md
+- SwapTwoStrings.class
+- SwapTwoStrings.java
+- SwapTwoStrings.py
+- temperature.py
 
 ### AdditionOfTwoValues
 
